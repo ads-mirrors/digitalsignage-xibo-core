@@ -11,6 +11,8 @@ Schedule Criteria are a set of metrics set on the media player which influence t
 
 For example a metric of "PRODUCT_LIFTED" could be set on the media player via API which activated a new scheduled layout in the loop to show information regarding the lifted product.
 
+{feat}Schedule Criteria|v4{/feat}
+
 There are several ways to inform a media player which criteria are currently active:
 
  - Local Player API (Push criteria into the player)
